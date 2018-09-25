@@ -1,0 +1,31 @@
+_repo: Famous-Composers-and-their-Works-Vol-2_57570
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editors:
+  - agent_name: Paine, John Knowles
+    gutenberg_agent_id: '48129'
+    url: http://www.gutenberg.org/2009/agents/48129
+  - agent_name: Thomas, Theodore Lockhard
+    gutenberg_agent_id: '26100'
+    url: http://www.gutenberg.org/2009/agents/26100
+  - agent_name: Klauser, Karl
+    gutenberg_agent_id: '48130'
+    url: http://www.gutenberg.org/2009/agents/48130
+description: ''
+gutenberg_issued: '2018-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57570'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Famous Composers and their Works, Vol. 2
+url: http://www.gutenberg.org/ebooks/57570
